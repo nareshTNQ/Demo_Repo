@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63" started-at="2017-12-05T12:41:34Z" finished-at="2017-12-05T12:41:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63" started-at="2017-12-05T12:41:34Z" finished-at="2017-12-05T12:41:34Z">
+      <class name="MavenDemoTest.MavenDemoTest.TestDemo2">
+        <test-method status="PASS" signature="dem41()[pri:0, instance:MavenDemoTest.MavenDemoTest.TestDemo2@2669b199]" name="dem41" duration-ms="16" started-at="2017-12-05T18:11:34Z" finished-at="2017-12-05T18:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dem41 -->
+        <test-method status="PASS" signature="demo3()[pri:0, instance:MavenDemoTest.MavenDemoTest.TestDemo2@2669b199]" name="demo3" duration-ms="0" started-at="2017-12-05T18:11:34Z" finished-at="2017-12-05T18:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo3 -->
+      </class> <!-- MavenDemoTest.MavenDemoTest.TestDemo2 -->
+      <class name="MavenDemoTest.MavenDemoTest.TestDemo1">
+        <test-method status="PASS" signature="demo()[pri:0, instance:MavenDemoTest.MavenDemoTest.TestDemo1@5afa04c]" name="demo" duration-ms="0" started-at="2017-12-05T18:11:34Z" finished-at="2017-12-05T18:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="demo1()[pri:0, instance:MavenDemoTest.MavenDemoTest.TestDemo1@5afa04c]" name="demo1" duration-ms="0" started-at="2017-12-05T18:11:34Z" finished-at="2017-12-05T18:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+      </class> <!-- MavenDemoTest.MavenDemoTest.TestDemo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
